@@ -45,5 +45,5 @@ No known bugs so far :)
 
 If you have any suggestion or contributions about this project, you can reach out to me on:
 
-- Email: perryyyy@gmail.com
+- Email: perryyyytoslimey@gmail.com
 - Phone: +254723587898
