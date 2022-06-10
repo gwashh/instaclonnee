@@ -12,6 +12,7 @@ class Migration(migrations.Migration):
         ('insta', '0002_auto_20211206_1623'),
     ]
 
+
     operations = [
         migrations.RenameField(
             model_name='image',
