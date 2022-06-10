@@ -1,5 +1,5 @@
 h1 {
-  color: green;
+  color: red;
 }
 #name {
   font-family: "Open Sans Condensed", sans-serif;
@@ -7,5 +7,6 @@ h1 {
 }
 .card {
   margin-bottom: 5%;
+
 }
 
