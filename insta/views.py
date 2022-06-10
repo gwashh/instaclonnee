@@ -36,7 +36,7 @@ def profile(request):
         redirect('profile')
     return render(request, 'all-temps/profile.html', {"posts": posts, "profile": profile, 'form':form})
 
- @login_required(login_url='/accounts/login/')
+
 def one_image(request, id):
     image = Image.objects.get(id=id)
     images_related = Image.objects.filter(
