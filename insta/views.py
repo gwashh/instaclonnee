@@ -105,4 +105,5 @@ def search_results(request):
     else:
         message = "You haven't searched for any term"
         return render(request, 'all-temps/search.html',{"message":message})
+        
 
