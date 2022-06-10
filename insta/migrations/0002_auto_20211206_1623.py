@@ -25,6 +25,7 @@ class Migration(migrations.Migration):
             name='comments',
             field=models.IntegerField(blank=True, default=True, null=True),
         ),
+        
         migrations.CreateModel(
             name='profile',
             fields=[
